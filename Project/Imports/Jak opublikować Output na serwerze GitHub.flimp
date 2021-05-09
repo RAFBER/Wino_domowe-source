@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  ImportFolder=""
+  LastImport="2021-03-13T13:22:07.2666744+01:00">
+  <Files>
+    <Url
+      Source="../../../Jak opublikować Output na serwerze GitHub.docx"
+      AbsoluteSource="file:///F:/01_STUDIA/Jak opublikować Output na serwerze GitHub.docx" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Resources/Images/Jak opublikować Output na serwerze GitHub/Jak opublikować Output z MadCap.png"
+      TimeStamp="2021-03-13 13:21:59" />
+    <Url
+      Source="../../Content/Jak opublikować Output z MadCap.htm"
+      TimeStamp="2021-03-13 13:22:00" />
+    <Url
+      Source="../TOCs/Jak opublikować Output na serwerze GitHub.fltoc"
+      TimeStamp="2021-03-13 13:22:00" />
+    <Url
+      Source="../../Content/Resources/MasterPages/Jak opublikować Output na serwerze GitHub.flmsp"
+      TimeStamp="2021-03-13 13:22:00" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/Jak opublikować Output na serwerze GitHub.css"
+      TimeStamp="2021-03-13 13:22:00" />
+  </GeneratedFiles>
+  <ParagraphStyles>
+    <Map
+      From="Daten"
+      To="p.Daten"
+      Style="Word" />
+    <Map
+      From="Daten-mit-Abkuerzung"
+      To="p.Daten-mit-Abkuerzung"
+      Style="Word" />
+    <Map
+      From="Nagłówek 1"
+      To="p.Nagłówek1"
+      Style="Word" />
+    <Map
+      From="Stopka"
+      To="p.Stopka"
+      Style="Word" />
+    <Map
+      From="Text-Tabelle-7"
+      To="p.Text-Tabelle-7"
+      Style="Word" />
+  </ParagraphStyles>
+  <CharacterStyles>
+    <Map
+      From="Hiperłącze"
+      To="span.Hiperłącze"
+      Style="Word" />
+  </CharacterStyles>
+  <NewTopicStyles />
+</MsWordImport>

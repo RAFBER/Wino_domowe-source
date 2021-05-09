@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head><title></title>
+        <link href="../Stylesheets/Jak opublikować Output na serwerze GitHub.css" rel="stylesheet" />
+    </head>
+    <body>
+        <MadCap:bodyProxy />
+        <div>
+            <table class="table_3">
+                <col class="col_8" />
+                <col class="col_9" />
+                <col class="col_10" />
+                <col class="col_11" />
+                <col class="col_12" />
+                <col class="col_13" />
+                <tbody>
+                    <tr>
+                        <td class="td_9">
+                            <p class="Text-Tabelle-7_1">Type:</p>
+                        </td>
+                        <td class="td_10">
+                            <p class="Text-Tabelle-7_1">Order No.</p>
+                        </td>
+                        <td class="td_11">
+                            <p class="Text-Tabelle-7_1">Keyword</p>
+                        </td>
+                        <td colspan="3" class="td_12">
+                            <p class="Text-Tabelle-7_1">Replaces</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td class="td_13">
+                            <p class="Daten">&#160;</p>
+                        </td>
+                        <td class="td_14">
+                            <p class="Daten">&#160;</p>
+                        </td>
+                        <td class="td_3">
+                            <p class="Daten">&#160;</p>
+                        </td>
+                        <td colspan="3" class="td_3">
+                            <p class="Daten">&#160;</p>
+                        </td>
+                    </tr>
+                    <tr class="tr_1">
+                        <td rowspan="2" class="td_15">
+                            <p class="p_5">&#160;</p>
+                        </td>
+                        <td colspan="2" rowspan="2" class="td_16">
+                            <p class="p_6">&#160;</p>
+                        </td>
+                        <td colspan="2" class="td_17">
+                            <p class="p_7">60007600</p>
+                        </td>
+                        <td class="td_16">
+                            <p class="p_8">Revision</p>
+                            <p class="p_9">-</p>
+                        </td>
+                    </tr>
+                    <tr class="tr_2">
+                        <td class="td_18">
+                            <p class="p_10"><span class="span_2">Language:</span> </p>
+                        </td>
+                        <td class="td_19">
+                            <p class="p_1">en</p>
+                        </td>
+                        <td class="td_16">
+                            <p class="p_1">1/1</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="Stopka">&#160;</p>
+        </div>
+    </body>
+</html>

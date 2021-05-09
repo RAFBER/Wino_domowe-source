@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="F:\01_STUDIA\WinoDomowe\Content\D_Grafika\Winogrono.jpg" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="F:\01_STUDIA\WinoDomowe\Content\A_Opisy\6_Skutki_uboczne_nadużywania_wina.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="F:\01_STUDIA\WinoDomowe\Content\A_Opisy\3_Co_to_jest_wino_domowe.htm" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog" />
+</RecentLinks>

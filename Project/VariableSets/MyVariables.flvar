@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="CompanyName"
+    EvaluatedDefinition="CompanyX">CompanyX</Variable>
+  <Variable
+    Comment=""
+    Name="PhoneNumber"
+    EvaluatedDefinition="123 456 789">123 456 789</Variable>
+  <Variable
+    Name="PersonName"
+    Comment=""
+    EvaluatedDefinition="PC user">PC user</Variable>
+  <Variable
+    Name="AddressName"
+    Comment=""
+    EvaluatedDefinition="Address">Address</Variable>
+</CatapultVariableSet>

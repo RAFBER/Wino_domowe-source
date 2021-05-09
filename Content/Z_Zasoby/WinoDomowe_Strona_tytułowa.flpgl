@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Name="Title" Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="title" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1.00in" PaddingBottom="1in">
+        <Frame Flow="body" ColumnCount="1" Anchors="Left,Right,Top,Bottom" PaddingLeft="0in" PaddingRight="0in" PaddingTop="0in" PaddingBottom="0in" X="0in" Y="3.260417in" Right="0in" Bottom="5in" Width="576px" Height="71px">
+        </Frame>
+        <Frame X="337px" Y="583px" Width="236px" Height="163px" FlowIndex="1" Flow="body" Right="3px" Bottom="118px" />
+        <Frame X="-5px" Y="-25px" Width="580px" Height="287px" Flow="decoration0" Right="1px" Bottom="602px" BackgroundImage="../B_Grafika/Winogrono.jpg" BackgroundRepeat="stretch" />
+    </Page>
+    <Page Width="800" Height="800" Padding="20px" PageSize="Letter" PageType="normal" PaddingLeft="1.5in" PaddingRight="1in" PaddingTop="1.00in" PaddingBottom="1in">
+        <Frame X="-65px" Y="-49px" Width="681px" Height="91px" Flow="header" Right="-40px" Bottom="822px" />
+        <Frame X="-73px" Y="863px" Width="699px" Height="78px" Flow="footer" Right="-50px" Bottom="-77px">
+            <Content>
+                <xhtml:html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+                    <xhtml:head>
+                    </xhtml:head>
+                    <xhtml:body>
+                        <xhtml:p>Strona  <MadCap:variable xhtml:name="System.PageNumber" /> of <MadCap:variable xhtml:name="System.PageCount" /></xhtml:p>
+                    </xhtml:body>
+                </xhtml:html>
+            </Content>
+        </Frame>
+        <Frame X="-59px" Y="58px" Width="674px" Height="772px" Flow="body" Right="-39px" Bottom="34px" />
+    </Page>
+</PageStyles>
